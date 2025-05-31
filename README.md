@@ -1,24 +1,8 @@
-# Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/egS6fnZAdzk
-
-<img width="1470" alt="Screenshot 2024-12-10 at 9 45 45 AM" src="https://github.com/user-attachments/assets/1bc50b85-b421-4122-8ba4-ae68b2b61432">
-
-### Make sure to create a `.env` file with following variables -
-
-```
-DATABASE_URL=
-DIRECT_URL=
-
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
-
-GEMINI_API_KEY=
-
-RESEND_API_KEY=
-
-ARCJET_KEY=
-```
+FinIntel is an AI-powered finance management platform designed to help users take control of their personal finances with smart insights and automation.
+– Allows users to create and manage multiple financial accounts, set monthly spending limits, and categorize transactions effectively.
+– Built using Next.js for a fast, scalable, and seamless user experience with server-side rendering capabilities.
+– Utilizes Supabase for backend infrastructure and authentication, and Prisma ORM for robust and efficient database operations.
+– Features advanced AI-powered receipt scanning that automatically extracts and categorizes expense data from uploaded receipts.
+– Visualizes income and expenditures through intuitive and interactive graphs, enabling users to easily track financial trends and patterns.
+– Provides a clean and user-friendly dashboard for managing budgets, reviewing spending behavior, and improving financial literacy.
+– Integrates intelligent tools to deliver real-time financial insights and promote smarter money management.
